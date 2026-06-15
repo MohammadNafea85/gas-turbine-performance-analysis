@@ -11,7 +11,7 @@
 
 ## 🏭 Project Background
 
-This project is unique because it combines **real-world power plant operations experience** with data analytics. As a Senior Power Plant Operation Engineer with 13+ years on MHI Gas Turbines (M701F, 250 MW) and ANSALDO Steam Turbines, I applied domain expertise to interpret the data the way a control room engineer would — not just as numbers, but as real operational signals.
+This project is unique because it combines **real-world power plant operations experience** with data analytics. As a Senior Power Plant Operation Engineer with 13+ years, I applied domain expertise to interpret the data the way a control room engineer would — not just as numbers, but as real operational signals.
 
 The dataset comes from a **gas turbine in northwestern Turkey**, with 36,733 hourly sensor readings collected over 5 years (2011–2015).
 
@@ -128,7 +128,6 @@ This analysis goes beyond typical data science projects by incorporating real op
 
 **Mohammad Nafea** — Mechanical Engineer & Power Plant Senior Operation Engineer
 
-- 🏭 13+ years operating MHI Gas Turbines (M701F, 2×250MW) and ANSALDO Steam Turbines
 - 📊 Transitioning into **Data Analytics for the Energy Sector**
 - 🛠️ Skills: Python · SQL · Power BI · Excel · AutoCAD
 
