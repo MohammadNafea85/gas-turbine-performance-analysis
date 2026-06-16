@@ -109,7 +109,7 @@ ucimlrepo>=0.0.3
 https://raw.githubusercontent.com/MohammadNafea85/gas-turbine-performance-analysis/refs/heads/main/dashboard.png
 
 ### ML Prediction Model
-![ML Model](outputs/ml_model.png)
+https://raw.githubusercontent.com/MohammadNafea85/gas-turbine-performance-analysis/refs/heads/main/ml_model.png
 
 ---
 
