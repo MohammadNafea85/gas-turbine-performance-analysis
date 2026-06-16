@@ -106,7 +106,7 @@ ucimlrepo>=0.0.3
 ## 📈 Results
 
 ### Performance Dashboard
-![Dashboard](outputs/dashboard.png)
+dashboard.png
 
 ### ML Prediction Model
 ![ML Model](outputs/ml_model.png)
