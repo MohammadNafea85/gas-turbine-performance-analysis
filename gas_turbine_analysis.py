@@ -170,8 +170,7 @@ ax6.set_xlabel("Year")
 ax6.set_ylabel("Heat Rate (BTU/kWh)")
 ax6.invert_yaxis()  # lower heat rate = better efficiency
 
-plt.savefig('/mnt/user-data/outputs/dashboard.png',
-            dpi=150, bbox_inches='tight')
+plt.savefig('dashboard.png', dpi=150, bbox_inches='tight')
 plt.close()
 print("\n✅ Dashboard saved → dashboard.png")
 
@@ -236,8 +235,7 @@ ax_b.set_facecolor(BG)
 ax_b.grid(True, color=GRID)
 
 plt.tight_layout()
-plt.savefig('/mnt/user-data/outputs/ml_model.png',
-            dpi=150, bbox_inches='tight')
+plt.savefig('ml_model.png', dpi=150, bbox_inches='tight')
 plt.close()
 print("\n✅ ML Model chart saved → ml_model.png")
 
