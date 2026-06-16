@@ -81,7 +81,7 @@ gas-turbine-analysis/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/gas-turbine-analysis.git
+git clone https://github.com/MohammadNafea85/gas-turbine-analysis.git
 cd gas-turbine-analysis
 
 # 2. Install dependencies
